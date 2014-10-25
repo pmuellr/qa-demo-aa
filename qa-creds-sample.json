@@ -1,0 +1,8 @@
+{
+  "comment-1": "to run this sample locally, copy this file to qa-creds.json",
+  "comment-2": "and fill in the username and password",
+
+  "url": "https://gateway.watsonplatform.net/qagw/service",
+  "username": "<user-name-here>",
+  "password": "<password-here>"
+}
