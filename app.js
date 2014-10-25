@@ -8,7 +8,7 @@
 qaCreds = {}
 
 try {
-  qaCreds = require("./qa-creds-sample.json")
+  qaCreds = require("./qa-creds.json")
   console.log("using qa from qa-creds.json")
 }
 catch (e) {
